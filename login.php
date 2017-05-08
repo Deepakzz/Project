@@ -35,6 +35,10 @@
       margin: 8px 0;
       width: 50%;
     }
+    body {
+        background-image:
+	url("http://www.planwallpaper.com/static/images/7864-download-full-hd-romantic-beach-water-nature-background.jpg");
+	}
 
   </style>
 </head>
