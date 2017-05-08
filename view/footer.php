@@ -6,7 +6,7 @@ background:#a9a9a9;
 }
 p {
 margin-right: 5px;
-font-family: cursive;
+font-family: italic;
 color:#fff;
 text-align: center;
 }
