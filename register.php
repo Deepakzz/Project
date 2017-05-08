@@ -1,4 +1,5 @@
 <html>
+<center>
 <body>
 
 <div class="body"></div>
@@ -17,5 +18,6 @@
 </form>
 </div>
 </body>
+</center>
 </html>
 												
