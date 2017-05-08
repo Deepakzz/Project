@@ -121,8 +121,8 @@ name='description'/><br><br>
 <strong> Date:- </strong><br> <input type="date" name = "datetodo"><br><br>
 <strong> Time:- </strong><br> <input type="time" name="timetodo"><br><br>
 <input type="hidden" name="userid" value="<?php echo $_COOKIE['my_id']; ?>">
-<input type = 'hidden' name = 'action' value='addtask'><br>
-<input type="submit" value="Add Task"/>
+<input type = 'hidden' name = 'action' value='addfunc'><br>
+<input type="submit" value="addfunc"/>
 </form>
 </div>
 </body>
