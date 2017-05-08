@@ -1,4 +1,12 @@
 <html>
+<head>
+<style>
+body {
+    background-image:
+    url("http://www.planwallpaper.com/static/images/maxresdefault.jpg");
+    }
+    </style>
+    </head>
 <center>
 <body>
 
