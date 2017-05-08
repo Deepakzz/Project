@@ -118,7 +118,7 @@ background-color: #729edc;
 
 	<?php endforeach;?>
 	 </table>
-	 <form style="margin-top:10px;" method = 'post' action='addtask.php'>
+	 <form style="margin-top:10px;" method = 'post' action='addfunc.php'>
 	 <br> <input type="submit" style="font-family: cursive;" value="Add Task"/>
          </form>
 	  <h3><strong>Completed Task</strong></h3>
