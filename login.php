@@ -38,8 +38,9 @@
 
   </style>
 </head>
-
+<center>
 <body>
+
   <div class="body"></div>
   <div class="grad"></div>
     <br>
@@ -54,4 +55,5 @@
     <input type="submit" value="Sign-Up" name="submit">
     </form>
     </body>
+    </center>
     </html>
