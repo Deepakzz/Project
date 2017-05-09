@@ -111,7 +111,7 @@ background-color: #729edc;
       <form style="margin-top: 15px;" action="index.php" method= "post">
       <input type="hidden" name= "user_id" value="<?php echo $res['id']; ?>">
       <input type="submit" style="text-align: center;font-family: cursive; " value = "Edit">
-       <input type="hidden" name='action' value="edittask">
+       <input type="hidden" name='action' value="editfunc">
        </form>
        	</td>
 	</tr>  

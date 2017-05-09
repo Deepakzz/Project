@@ -70,10 +70,10 @@ $addfunc = addTodoItems($user_id,$description,$task,$date,$time,$status);
 	  include('list.php');
 	  }
 	  }
-else if($action == 'edittask'){
+else if($action == 'editfunc'){
  $editid = filter_input(INPUT_POST, 'user_id');
  $result3 = getTask($editid);
-  include('edittask.php');
+  include('editfunc.php');
   }
   else if ($action == 'deletetask'){
   $taskid = filter_input(INPUT_POST, 'user_id');
